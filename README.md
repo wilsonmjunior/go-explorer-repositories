@@ -17,7 +17,7 @@
   git clone https://github.com/wilsonmjunior/go-explorer-repositories
   
   # Access the project folder 
-  cd go-finances-web
+  cd go-explorer-repositories
   
   # Install dependencies
   yarn 
