@@ -4,7 +4,7 @@
 
 <p align="center">Working from the api github, using React.js and some React Hooks</p> 
 
-## [Demo](https://go-explorer-repositories.vercel.app/)
+### [Demo](https://go-explorer-repositories.vercel.app/)
 
 ## Screenshot
 
